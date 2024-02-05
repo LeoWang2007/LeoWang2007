@@ -4,4 +4,6 @@
 - 📧 邮箱/email：<a href="mailto: WatermelonCloud@outlook.com">WatermelonCloud#outlook.com</a> (#->@)
 - 💬 X：[@melonleowang](https://twitter.com/melonleowang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoWang2007&hide_title=false&layout=compact)](https://github.com/LeoWang2007)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=LeoWang2007&hide=stars,prs&show_icons=true&rank_icon=github)](https://github.com/LeoWang2007)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoWang2007&hide_title=false)](https://github.com/LeoWang2007)
